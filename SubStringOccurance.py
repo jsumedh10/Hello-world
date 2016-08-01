@@ -1,3 +1,6 @@
+########################################################################
+# This program gives the number of occurences of a substring
+########################################################################
 string = input()
 sub = input()
 count = 0
